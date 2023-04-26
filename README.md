@@ -1,4 +1,4 @@
-Getting Started
+
 Follow these steps to start the server and test the operations.
 
 Prerequisites
